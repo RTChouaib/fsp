@@ -1,0 +1,8 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/account/cancel/route": "app/api/account/cancel/route.js",
+  "/api/webhooks/paddle/route": "app/api/webhooks/paddle/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}
